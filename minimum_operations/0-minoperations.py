@@ -1,6 +1,13 @@
 #!/usr/bin/python3
+"""
+aaaa
+"""
+
 
 def minOperations(n):
+    """
+    aaaaaa
+    """
     if n <= 1:
         return 0
     num = n
